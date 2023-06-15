@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= title %></title>
+    <link rel="stylesheet" href="/stylesheets/selectedBranch.css"/>
+</head>
+<body>
+    <section class="main__branches">
+    <% for(let i = 0; i < data.length; i++) { %>
+        <div class="branch__data branches">
+            <a href="http://localhost:3000/branches/<%=data[i].sucursal%>">
+                <img class="branch__data-img branch__img" src="<%=data[i].sucursalPhoto%>"/>
+            </a>
+            <div>
+                <h1 class="branch__data-title">Sucursal <span><%= data[i].sucursal %></span></h1>
+                <h2 class="branch__data-subtitle">Telefono <span><%= data[i].telefono %></span></h2>
+                <h2 class="branch__data-subtitle">Dirección <span><%= data[i].direccion %></span></h2>
+            </div>
+        </div>
+    <% } %>
+    </section>
+    <%- include('partials/backhome.ejs') %>
+</body>
+</html>

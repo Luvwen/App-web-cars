@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/selectedCar.css' />
+</head>
+<body>
+    <section class="car__view">
+        <div class="car__list">
+            <% for(let i = 0; i < data.length; i++) { %>
+                <div class="car">
+                    <h2 class="car__title"><%= data[i].branch %> <%= data[i].model %></h2>
+                    <img class="car__img" src="<%= data[i].photoUrl%>"/>
+                    <p class="car__model">Year <%= data[i].year %></p>
+                </div>
+            <% } %>
+        </div>
+    </section>
+    <%- include('partials/backhome.ejs') %>
+</body>
+</html>

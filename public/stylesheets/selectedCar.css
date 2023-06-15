@@ -1,0 +1,45 @@
+.car__view {
+
+}
+
+.car__list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.car {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.car__title {
+    text-transform: capitalize;
+}
+
+.car__img {
+    width: 350px;
+    height: 300px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.car__img:hover {
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.car__model {
+    text-transform: capitalize;
+    font-size: 1.2em;
+}
+
+.car__year {
+    font-size: 1.2em;
+}
+
+.car__year > span {
+    text-transform: capitalize;
+    margin-left: 25px;
+}

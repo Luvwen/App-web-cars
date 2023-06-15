@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= title %></title>
+    <link rel="stylesheet"  href="/stylesheets/selectedBranch.css"/>
+</head>
+<body>
+    <section class='car__view'>
+        <h1>All our cars available!</h1>
+        <div class="car__list all__cars">
+            <% for(let i = 0; i < data.length; i++) { %>
+                <% for(let j = 0; j < data[i].length; j++) { %>
+                <div class="car single__car">
+                    <h2 class="car__title"><%= data[i][j].marca %> <%= data[i][j].modelo %></h2>
+                    <a href="http://localhost:3000/cars/<%=data[i][j].modelo%>">
+                        <img class="photo car__photo" src="<%= data[i][j].photoUrl%>"/>
+                    </a>
+                    <p class="car__model">Year <%= data[i][j].anio %></p>
+                </div>
+            <% } %>
+            <% } %>
+        </div>
+    </section>
+</body>
+</html>

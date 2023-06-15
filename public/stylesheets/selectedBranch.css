@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.main {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.main__branches {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.branch__data {
+    display: flex;
+    justify-content: space-evenly;
+    width: 50vw;
+    margin-top: 100px;
+}
+
+.branches {
+    width: 75vw;
+}
+
+.branch__data-img {
+    width: 400px;
+    height: 350px;
+    border-radius: 10px;
+}
+
+.branch__img {
+    cursor: pointer;
+}
+
+.branch__img:hover {
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.branch__data > div {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    justify-content: space-evenly;
+}
+
+.branch__data-title {
+    font-size: 1.7em;
+}
+
+.branch__data-title > span {
+    display: block;
+    font-weight: 400;
+    margin-top: 15px;
+}
+
+.branch__data-subtitle {
+    font-size: 1.7em;
+    margin-top: 15px;
+}
+
+.branch__data-subtitle > span {
+    display: block;
+    font-weight: 400;
+    margin-top: 15px;
+    max-width: 40ch;
+}
+
+.car__list {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 50vw;
+}
+
+.car__list > ul {
+    min-width: 25%
+}
+
+.car__list > ul:nth-last-child(-n+2) {
+    flex-basis: calc(50% - 10px);
+  }
+
+.main__branchlist {
+    list-style: none;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 300px;
+    margin-top: 25px;
+}
+
+.main__branchlist-item {
+    text-transform: capitalize;
+    font-size: 1.2em;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.main__branchlist-item > span {
+    margin-left: 15px;
+}
+
+.photo {
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+.photo:hover {
+    cursor: pointer;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.car__view {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.car__view > h1 {
+    margin-top: 50px;
+    font-size: 2em;
+}
+
+.all__cars {
+    margin-top: 50px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.single__car {
+    margin-bottom: 25px;
+}
+
+.car__photo {
+    margin-bottom: 15px;
+}
+
+.single__car > p{
+    font-size: 1.2em;
+}
+
+.backbutton {
+    min-width: 50px;
+}

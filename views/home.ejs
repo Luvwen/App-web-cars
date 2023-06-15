@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/home.css' />
+</head>
+<body>
+    <main class="main__home">
+        <h1 class="home__title">Hi, this is our list of branches that work with us!</h1>
+        <div class="branches">
+            <% for(let i = 0; i < data.length ; i++){ %>
+                <ul class="branches__list">
+                    <li class="branches__list-item branches__list-text"><%= data[i].sucursal %></li>
+                    <li class="branches__list-item">
+                        <a href="http://localhost:3000/branches/<%=data[i].sucursal%>">
+                            <img class="sucursal__photo" src="<%= data[i].sucursalPhoto %>"/>
+                        </a>
+                    </li>
+                </ul>
+            <% } %>
+        </div>
+    </main>
+    <%- include('partials/backhome.ejs') %>
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/selectedBranch.css' />
+</head>
+<body>
+    <main class="main">
+        <section class="branch__data">
+            <img class="branch__data-img" src="<%=data[0].sucursalPhoto%>"/>
+            <div>
+                <h1 class="branch__data-title">Sucursal <span><%= data[0].sucursal %></span></h1>
+                <h2 class="branch__data-subtitle">Telefono <span><%= data[0].telefono %></span></h2>
+                <h2 class="branch__data-subtitle">Dirección <span><%= data[0].direccion %></span></h2>
+            </div>
+        </section>
+        <div class="car__list">
+            <% for(let i = 0; i < data[0].autos.length; i++) { %>
+                <ul class="main__branchlist">
+                    <li class="main__branchlist-item title"> <%= data[0].autos[i].marca %> <%= data[0].autos[i].modelo %></p>
+                    <a href="http://localhost:3000/cars/<%=data[0].autos[i].modelo%>">
+                        <img class="main__branchlist-item photo" src="<%=data[0].autos[i].photoUrl%>"/>
+                    </a>
+                    <li class="main__branchlist-item year">Year <%= data[0].autos[i].anio %> <span>Color <%= data[0].autos[i].color %></span></p>
+                </ul>
+            <% } %> 
+        </div>
+    </main>
+</body>
+</html>

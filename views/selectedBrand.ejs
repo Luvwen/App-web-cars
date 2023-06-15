@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= title %></title>
+    <link rel="stylesheet"  href="/stylesheets/selectedBrand.css"/>
+</head>
+<body>
+    <section class="car__list">
+        <h1>All the peugeot brand cars that we have available </h1>
+        <div class="cars">
+            <% for(let i = 0; i < data.length; i++) { %>
+                <div class="car">
+                    <p class="car__name"><%= data[i].branch %> <%= data[i].model %></p>
+                    <a href="http://localhost:3000/cars/<%=data[i].model%>">
+                        <img class="car__photo" src="<%= data[i].photo%>"/>
+                    </a>
+                    <p class="car__year">Year <%= data[i].year %></p>
+                </div>
+            <% } %>
+        </div>
+    </section>
+</body>
+</html>

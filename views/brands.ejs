@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= title %></title>
+    <link rel="stylesheet" href="/stylesheets/brands.css">
+</head>
+<body>
+    <section class="brands">
+        <h1 class="brands__title">Brands that are currently available in our locals:</h1>
+        <div class="brands__list">
+            <% for(let i = 0; i < data.length; i++) { %>
+                <div class="brands__container">
+                    <p class="brands__name"><%= data[i].brand%></p>
+                    <a href="http://localhost:3000/brands/<%=data[i].brand%>">
+                        <img class="brands__img" src="<%=data[i].photo%>"/>
+                    </a>
+                </div>
+            <% } %>
+        </div>
+    </section>
+</body>
+</html>

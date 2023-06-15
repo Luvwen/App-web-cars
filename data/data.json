@@ -1,0 +1,602 @@
+[{
+    "sucursal": "3 de Febrero",
+    "direccion": "Caseros 1678, B1678 Caseros Partido de Tres de Febrero, Provincia de Buenos Aires",
+    "sucursalPhoto": "https://static.misionesonline.news/wp-content/uploads/2022/09/patentamiento-de-autos-en-misiones-1.jpg",
+    "telefono": "(011) 4758-6780",
+    "autos": [
+        {
+            "marca": "volkswagen",
+            "brandPhoto": "https://cdn.worldvectorlogo.com/logos/volkswagen-9.svg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "scirocco",
+            "anio": 2016,
+            "color": "black"
+        },
+        {
+            "marca": "peugeot",
+            "brandPhoto": "https://acnews.blob.core.windows.net/imgnews/extralarge/NAZ_adc988896c844b4bbf0c251572d053ab.jpg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "207",
+            "anio": 2020,
+            "color": "red"
+        },
+        {
+            "marca": "chevrolet",
+            "brandPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuJrk61GsChaNiSFhigu3gbDWIIdiIkuOgPbYfum2QXrDR5OQfeKIX0uXuTwP0XHJKlyE&usqp=CAU",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "cruze",
+            "anio": 2020,
+            "color": "white"
+        },
+        {
+            "marca": "nissan",
+            "brandPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Nissan_logo.png/700px-Nissan_logo.png",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "x-trail",
+            "anio": 2020,
+            "color": "brown"
+        },
+        {
+            "marca": "chevrolet",
+            "brandPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuJrk61GsChaNiSFhigu3gbDWIIdiIkuOgPbYfum2QXrDR5OQfeKIX0uXuTwP0XHJKlyE&usqp=CAU",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "onix",
+            "anio": 2017,
+            "color": "white"
+        },
+        {
+            "marca": "renault",
+            "brandPhoto": "https://w7.pngwing.com/pngs/981/107/png-transparent-renault-logo-renault-symbol-jaguar-cars-peugeot-renault-angle-logo-car.png",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "kangoo",
+            "anio": 2016,
+            "color": "black"
+        },
+        {
+            "marca": "audi",
+            "brandPhoto": "https://logowik.com/content/uploads/images/562_audi.jpg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "a3",
+            "anio": 2020,
+            "color": "black"
+        },
+
+        {
+            "marca": "volkswagen",
+            "brandPhoto": "https://cdn.worldvectorlogo.com/logos/volkswagen-9.svg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "golf",
+            "anio": 2020,
+            "color": "gray"
+        },
+        {
+            "marca": "volkswagen",
+            "brandPhoto": "https://cdn.worldvectorlogo.com/logos/volkswagen-9.svg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "amarok",
+            "anio": 2010,
+            "color": "gray"
+        },
+        {
+            "marca": "renault",
+            "brandPhoto": "https://w7.pngwing.com/pngs/981/107/png-transparent-renault-logo-renault-symbol-jaguar-cars-peugeot-renault-angle-logo-car.png",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "captur",
+            "anio": 2020,
+            "color": "orange"
+        },
+        {
+            "marca": "ford",
+            "brandPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ford_Motor_Company_Logo.svg/512px-Ford_Motor_Company_Logo.svg.png",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "focus",
+            "anio": 2014,
+            "color": "blue"
+        },
+        {
+            "marca": "ford",
+            "brandPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ford_Motor_Company_Logo.svg/512px-Ford_Motor_Company_Logo.svg.png",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "ka",
+            "anio": 2020,
+            "color": "red"
+        },
+        {
+            "marca": "toyota",
+            "brandPhoto": "https://www.toyota-global.com/pages/contents/showroom/emblem/passion/images/passion_img01.jpg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "etios",
+            "anio": 2020,
+            "color": "black"
+        },
+        {
+            "marca": "volkswagen",
+            "brandPhoto": "https://cdn.worldvectorlogo.com/logos/volkswagen-9.svg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "gol",
+            "anio": 2020,
+            "color": "white"
+        }
+    ]
+},
+{
+    "sucursal": "Pilar",
+    "direccion": "Au Panamericana KM 51, B1629 Pilar, Provincia de Buenos Aires",
+    "sucursalPhoto":"https://www.lanacion.com.ar/resizer/lfVZRpU80ppnCZXM4bOGZv7PNEg=/1200x800/smart/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/GLY7VTYQONC3XA6XMX5GOQ4KLQ",
+    "telefono": "(0230) 466-3000",
+    "autos": [{
+            "marca": "fiat",
+            "brandPhoto": "https://logowik.com/content/uploads/images/448_fiat.jpg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "toro",
+            "anio": 2019,
+            "color": "black"
+        },
+        {
+            "marca": "volkswagen",
+            "brandPhoto": "https://cdn.worldvectorlogo.com/logos/volkswagen-9.svg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "vento",
+            "anio": 2019,
+            "color": "black"
+        },
+        {
+            "marca": "ford",
+            "brandPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ford_Motor_Company_Logo.svg/512px-Ford_Motor_Company_Logo.svg.png",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "focus",
+            "anio": 2014,
+            "color": "blue"
+        },
+        {
+            "marca": "ford",
+            "brandPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ford_Motor_Company_Logo.svg/512px-Ford_Motor_Company_Logo.svg.png",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "fiesta",
+            "anio": 2010,
+            "color": "white"
+        },
+        {
+            "marca": "nissan",
+            "brandPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Nissan_logo.png/700px-Nissan_logo.png",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "x-trail",
+            "anio": 2020,
+            "color": "brown"
+        },
+        {
+            "marca": "chevrolet",
+            "brandPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuJrk61GsChaNiSFhigu3gbDWIIdiIkuOgPbYfum2QXrDR5OQfeKIX0uXuTwP0XHJKlyE&usqp=CAU",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "onix",
+            "anio": 2017,
+            "color": "white"
+        },
+        {
+            "marca": "volkswagen",
+            "brandPhoto": "https://cdn.worldvectorlogo.com/logos/volkswagen-9.svg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "amarok",
+            "anio": 2020,
+            "color": "black"
+        },
+        {
+            "marca": "volkswagen",
+            "brandPhoto": "https://cdn.worldvectorlogo.com/logos/volkswagen-9.svg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "golf",
+            "anio": 2020,
+            "color": "gray"
+        },
+        {
+            "marca": "renault",
+            "brandPhoto": "https://w7.pngwing.com/pngs/981/107/png-transparent-renault-logo-renault-symbol-jaguar-cars-peugeot-renault-angle-logo-car.png",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "captur",
+            "anio": 2020,
+            "color": "orange"
+        },
+        {
+            "marca": "chevrolet",
+            "brandPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuJrk61GsChaNiSFhigu3gbDWIIdiIkuOgPbYfum2QXrDR5OQfeKIX0uXuTwP0XHJKlyE&usqp=CAU",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "camaro",
+            "anio": 2012,
+            "color": "yellow"
+        },
+        {
+            "marca": "volkswagen",
+            "brandPhoto": "https://cdn.worldvectorlogo.com/logos/volkswagen-9.svg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "gol",
+            "anio": 2018,
+            "color": "black"
+        },
+        {
+            "marca": "toyota",
+            "brandPhoto": "https://www.toyota-global.com/pages/contents/showroom/emblem/passion/images/passion_img01.jpg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "etios",
+            "anio": 2020,
+            "color": "white"
+        },
+        {
+            "marca": "ford",
+            "brandPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ford_Motor_Company_Logo.svg/512px-Ford_Motor_Company_Logo.svg.png",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "ka",
+            "anio": 2020,
+            "color": "green"
+        }
+    ]
+},
+
+{
+    "sucursal": "Lanus",
+    "direccion": "Remedios de Escalada de San Martín 1584, B1822AAD Lanús Oeste, Provincia de Buenos Aires",
+    "sucursalPhoto": "https://i0.wp.com/elnuevorojense.com.ar/wp-content/uploads/2023/03/autoswebp.webp?w=1140&ssl=1",
+    "telefono": "(011) 4208-1514",
+    "autos": [{
+            "marca": "volkswagen",
+            "brandPhoto": "https://cdn.worldvectorlogo.com/logos/volkswagen-9.svg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "amarok",
+            "anio": 2019,
+            "color": "white"
+        },
+        {
+            "marca": "volkswagen",
+            "brandPhoto": "https://cdn.worldvectorlogo.com/logos/volkswagen-9.svg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "amarok",
+            "anio": 2010,
+            "color": "gray"
+        },
+        {
+            "marca": "audi",
+            "brandPhoto": "https://logowik.com/content/uploads/images/562_audi.jpg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "tt",
+            "anio": 2019,
+            "color": "white"
+        },
+        {
+            "marca": "audi",
+            "brandPhoto": "https://logowik.com/content/uploads/images/562_audi.jpg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "tt",
+            "anio": 2012,
+            "color": "black"
+        },
+        {
+            "marca": "chevrolet",
+            "brandPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuJrk61GsChaNiSFhigu3gbDWIIdiIkuOgPbYfum2QXrDR5OQfeKIX0uXuTwP0XHJKlyE&usqp=CAU",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "cruze",
+            "anio": 2018,
+            "color": "black"
+        },
+
+        {
+            "marca": "audi",
+            "brandPhoto": "https://logowik.com/content/uploads/images/562_audi.jpg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "q5",
+            "anio": 2018,
+            "color": "black"
+        },
+        {
+            "marca": "audi",
+            "brandPhoto": "https://logowik.com/content/uploads/images/562_audi.jpg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "q5",
+            "anio": 2015,
+            "color": "blue"
+        },
+        {
+            "marca": "chevrolet",
+            "brandPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuJrk61GsChaNiSFhigu3gbDWIIdiIkuOgPbYfum2QXrDR5OQfeKIX0uXuTwP0XHJKlyE&usqp=CAU",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "camaro",
+            "anio": 2015,
+            "color": "red"
+        },
+        {
+            "marca": "renault",
+            "brandPhoto": "https://w7.pngwing.com/pngs/981/107/png-transparent-renault-logo-renault-symbol-jaguar-cars-peugeot-renault-angle-logo-car.png",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "captur",
+            "anio": 2020,
+            "color": "orange"
+        },
+        {
+            "marca": "fiat",
+            "brandPhoto": "https://logowik.com/content/uploads/images/448_fiat.jpg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "argo",
+            "anio": 2020,
+            "color": "white"
+        },
+        {
+            "marca": "renault",
+            "brandPhoto": "https://w7.pngwing.com/pngs/981/107/png-transparent-renault-logo-renault-symbol-jaguar-cars-peugeot-renault-angle-logo-car.png",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "duster",
+            "anio": 2020,
+            "color": "gray"
+        },
+        {
+            "marca": "renault",
+            "brandPhoto": "https://w7.pngwing.com/pngs/981/107/png-transparent-renault-logo-renault-symbol-jaguar-cars-peugeot-renault-angle-logo-car.png",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "sandero",
+            "anio": 2020,
+            "color": "blue"
+        },
+        {
+            "marca": "ford",
+            "brandPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ford_Motor_Company_Logo.svg/512px-Ford_Motor_Company_Logo.svg.png",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "ka",
+            "anio": 2020,
+            "color": "green"
+        },
+        {
+            "marca": "peugeot",
+            "brandPhoto": "https://acnews.blob.core.windows.net/imgnews/extralarge/NAZ_adc988896c844b4bbf0c251572d053ab.jpg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "partner",
+            "anio": 2020,
+            "color": "white"
+        },
+        {
+            "marca": "toyota",
+            "brandPhoto": "https://www.toyota-global.com/pages/contents/showroom/emblem/passion/images/passion_img01.jpg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "hilux",
+            "anio": 2020,
+            "color": "white"
+        },
+        {
+            "marca": "fiat",
+            "brandPhoto": "https://logowik.com/content/uploads/images/448_fiat.jpg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "cronos",
+            "anio": 2020,
+            "color": "red"
+        }
+    ]
+},
+{
+    "sucursal": "Quilmes",
+    "direccion": "Av. Hipólito Yrigoyen 80, B1878 Quilmes, Provincia de Buenos Aires",
+    "sucursalPhoto":"https://sanluis24.com.ar/wp-content/uploads/2023/03/autos-min-2.png",
+    "telefono": "(0230) 466-3000",
+    "autos": [{
+            "marca": "chevrolet",
+            "brandPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuJrk61GsChaNiSFhigu3gbDWIIdiIkuOgPbYfum2QXrDR5OQfeKIX0uXuTwP0XHJKlyE&usqp=CAU",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "camaro",
+            "anio": 2012,
+            "color": "black"
+        },
+        {
+            "marca": "nissan",
+            "brandPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Nissan_logo.png/700px-Nissan_logo.png",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "note",
+            "anio": 2020,
+            "color": "white"
+        },
+
+        {
+            "marca": "chevrolet",
+            "brandPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuJrk61GsChaNiSFhigu3gbDWIIdiIkuOgPbYfum2QXrDR5OQfeKIX0uXuTwP0XHJKlyE&usqp=CAU",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "onix",
+            "anio": 2019,
+            "color": "red"
+        },
+        {
+            "marca": "volkswagen",
+            "brandPhoto": "https://cdn.worldvectorlogo.com/logos/volkswagen-9.svg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "scirocco",
+            "anio": 2015,
+            "color": "white"
+        },
+        {
+            "marca": "volkswagen",
+            "brandPhoto": "https://cdn.worldvectorlogo.com/logos/volkswagen-9.svg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "golf",
+            "anio": 2016,
+            "color": "white"
+        },
+        {
+            "marca": "nissan",
+            "brandPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Nissan_logo.png/700px-Nissan_logo.png",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "sentra",
+            "anio": 2017,
+            "color": "black"
+        },
+        {
+            "marca": "citroen",
+            "brandPhoto": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Citroen-logo-2009.png",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "c4",
+            "anio": 2020,
+            "color": "gray"
+        },
+        {
+            "marca": "citroen",
+            "brandPhoto": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Citroen-logo-2009.png",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "berlingo",
+            "anio": 2020,
+            "color": "gray"
+        },
+        {
+            "marca": "peugeot",
+            "brandPhoto": "https://acnews.blob.core.windows.net/imgnews/extralarge/NAZ_adc988896c844b4bbf0c251572d053ab.jpg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "208",
+            "anio": 2020,
+            "color": "gray"
+        },
+        {
+            "marca": "fiat",
+            "brandPhoto": "https://logowik.com/content/uploads/images/448_fiat.jpg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "fiorino",
+            "anio": 2020,
+            "color": "gray"
+        },
+        {
+            "marca": "toyota",
+            "brandPhoto": "https://www.toyota-global.com/pages/contents/showroom/emblem/passion/images/passion_img01.jpg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "etios",
+            "anio": 2020,
+            "color": "gray"
+        },
+        {
+            "marca": "ford",
+            "brandPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ford_Motor_Company_Logo.svg/512px-Ford_Motor_Company_Logo.svg.png",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "ecosport",
+            "anio": 2015,
+            "color": "red"
+        },
+        {
+            "marca": "chery",
+            "brandPhoto": "https://1000marcas.net/wp-content/uploads/2020/10/Chery-logo-600x338.png",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "tiggo",
+            "anio": 2020,
+            "color": "gray"
+        },
+        {
+            "marca": "renault",
+            "brandPhoto": "https://w7.pngwing.com/pngs/981/107/png-transparent-renault-logo-renault-symbol-jaguar-cars-peugeot-renault-angle-logo-car.png",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "sandero",
+            "anio": 2020,
+            "color": "gray"
+        }
+    ]
+},
+{
+    "sucursal": "San Miguel",
+    "direccion": "Av. Pres. Juan Domingo Perón 2043, B1663 San Miguel, Provincia de Buenos Aires",
+    "sucursalPhoto": "https://lh5.googleusercontent.com/p/AF1QipOKrRW6e3Wd1_pvUpAA7A79f6gf5bdMjdF09ni5=w103-h103-n-k-no",
+    "telefono": "(011) 4451-5565",
+    "autos": [{
+            "marca": "nissan",
+            "brandPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Nissan_logo.png/700px-Nissan_logo.png",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "note",
+            "anio": 2018,
+            "color": "red"
+        },
+        {
+            "marca": "chevrolet",
+            "brandPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuJrk61GsChaNiSFhigu3gbDWIIdiIkuOgPbYfum2QXrDR5OQfeKIX0uXuTwP0XHJKlyE&usqp=CAU",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "camaro",
+            "anio": 2018,
+            "color": "white"
+        },
+        {
+            "marca": "chevrolet",
+            "brandPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuJrk61GsChaNiSFhigu3gbDWIIdiIkuOgPbYfum2QXrDR5OQfeKIX0uXuTwP0XHJKlyE&usqp=CAU",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "onix",
+            "anio": 2016,
+            "color": "gray"
+        },
+        {
+            "marca": "honda",
+            "brandPhoto": "https://logodownload.org/wp-content/uploads/2014/09/honda-carros-logo-1.png",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "civic",
+            "anio": 2020,
+            "color": "black"
+        },
+        {
+            "marca": "audi",
+            "brandPhoto": "https://logowik.com/content/uploads/images/562_audi.jpg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "a6",
+            "anio": 2016,
+            "color": "red"
+        },
+        {
+            "marca": "nissan",
+            "brandPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Nissan_logo.png/700px-Nissan_logo.png",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "x-trail",
+            "anio": 2016,
+            "color": "gray"
+        },
+        {
+            "marca": "peugeot",
+            "brandPhoto": "https://acnews.blob.core.windows.net/imgnews/extralarge/NAZ_adc988896c844b4bbf0c251572d053ab.jpg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "2008",
+            "anio": 2020,
+            "color": "green"
+        },
+        {
+            "marca": "toyota",
+            "brandPhoto": "https://www.toyota-global.com/pages/contents/showroom/emblem/passion/images/passion_img01.jpg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "hilux",
+            "anio": 2020,
+            "color": "gray"
+        },
+        {
+            "marca": "volkswagen",
+            "brandPhoto": "https://cdn.worldvectorlogo.com/logos/volkswagen-9.svg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "saveiro",
+            "anio": 2020,
+            "color": "blue"
+        },
+        {
+            "marca": "fiat",
+            "brandPhoto": "https://logowik.com/content/uploads/images/448_fiat.jpg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "golf",
+            "anio": 2020,
+            "color": "gray"
+        },
+        {
+            "marca": "fiat",
+            "brandPhoto": "https://logowik.com/content/uploads/images/448_fiat.jpg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "palio",
+            "anio": 2017,
+            "color": "white"
+        },
+        {
+            "marca": "peugeot",
+            "brandPhoto": "https://acnews.blob.core.windows.net/imgnews/extralarge/NAZ_adc988896c844b4bbf0c251572d053ab.jpg",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "307",
+            "anio": 2020,
+            "color": "gray"
+        },
+        {
+            "marca": "renault",
+            "brandPhoto": "https://w7.pngwing.com/pngs/981/107/png-transparent-renault-logo-renault-symbol-jaguar-cars-peugeot-renault-angle-logo-car.png",
+            "photoUrl": "https://mx.web.img2.acsta.net/r_1920_1080/pictures/14/04/30/13/16/214121.jpg", 
+            "modelo": "sandero",
+            "anio": 2020,
+            "color": "gray"
+        }
+    ]
+}
+
+]
